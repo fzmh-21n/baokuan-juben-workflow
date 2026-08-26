@@ -1,4 +1,4 @@
 interface:
   display_name: "爆款剧本工作流"
-  short_description: "从选题定位到成稿审核的正向中文爆款剧本创作流程"
-  default_prompt: "Use $baokuan-juben-workflow to turn my premise into a dialogue-driven Chinese viral drama script."
+  short_description: "从爆款样本学习、三案举例到十三职能创作审核的完整流程"
+  default_prompt: "Use $baokuan-juben-workflow to analyze my viral script sample, extract reusable mechanisms, give three original examples, and continue only after I confirm one."

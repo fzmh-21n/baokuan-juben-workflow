@@ -1,4 +1,4 @@
 interface:
   display_name: "爆款剧本工作流"
-  short_description: "从爆款样本学习、三案举例到十三职能创作审核的完整流程"
-  default_prompt: "Use $baokuan-juben-workflow to analyze my viral script sample, extract reusable mechanisms, give three original examples, and continue only after I confirm one."
+  short_description: "完整样本对齐、红果抖音设定检索、四例重合度与剧本创作审核"
+  default_prompt: "使用 $baokuan-juben-workflow 完整拆解样本，展示例子前检索红果与抖音短剧，给出两例保留原逻辑、两例外扩逻辑的原创方向并逐例标注有依据的设定重合度，建立文风、格式、完整事件、主线、累计字数与专名对齐基线，选定方向并确认大纲后写正文，持续对齐且避免与原文专名重合。"
